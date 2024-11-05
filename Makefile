@@ -1,2 +1,2 @@
-Run:
-	console.log('Hello, World!')
+say-hello:
+	echo "Hello, World!";
