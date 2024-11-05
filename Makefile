@@ -1,1 +1,2 @@
-console.log('Hello, World!')
+Run:
+	console.log('Hello, World!')
