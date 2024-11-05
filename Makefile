@@ -1,2 +1,1 @@
-make say-hello
-Hello, World!
+console.log('Hello, World!')
