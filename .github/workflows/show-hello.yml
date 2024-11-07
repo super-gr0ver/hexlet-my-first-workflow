@@ -1,4 +1,4 @@
-name: show-directory
+name: show-hello
 on: push
 jobs:
   build:
@@ -6,5 +6,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-      - run: make test
       - uses: hexlet-components/hello-from-hexlet-action@release
